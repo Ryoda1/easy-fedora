@@ -12,4 +12,12 @@ description: Усе починається з першого кроку.
 
 ## **Де завантажити Fedora Linux?**
 
-<figure><img src="../.gitbook/assets/obraz.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/obraz.png" alt=""><figcaption><p>Офіційний сайт fedora Linux</p></figcaption></figure>
+
+## Огляд Fedora Linux
+
+{% embed url="https://www.youtube.com/watch?v=6eVo7KtpNPM" %}
+
+## Завантажити найсвіжішу версію Fedora Linux.
+
+{% embed url="https://fedoraproject.org/" %}
