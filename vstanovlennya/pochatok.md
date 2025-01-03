@@ -74,6 +74,18 @@ description: Усе починається з першого кроку.
 
 <figure><img src="../.gitbook/assets/obraz (11).png" alt=""><figcaption></figcaption></figure>
 
+**Fedora KDE Plasma Mobile**
+
+Спін, побудований на основі KDE Plasma Desktop, адаптований для мобільних пристроїв. Інтерфейс, орієнтований на сенсорне керування, підходить для смартфонів та планшетів.
+
+<figure><img src="../.gitbook/assets/obraz (12).png" alt=""><figcaption></figcaption></figure>
+
+**Fedora Miracle**
+
+Спін, що пропонує віконний менеджер Miracle, який забезпечує привабливий та ефективний досвід роботи з вікнами.&#x20;
+
+<figure><img src="../.gitbook/assets/obraz (14).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Ці спіни дозволяють вибрати Fedora з різними робочими середовищами та функціоналом в залежності від ваших потреб.
 {% endhint %}
