@@ -94,7 +94,7 @@ description: Усе починається з першого кроку.
 
 {% embed url="https://fedoraproject.org/spins" %}
 
-## Альтернативні методи встановлення Fedora?
+## Альтернативні методи встановлення Fedora
 
 {% embed url="https://alt.fedoraproject.org/" %}
 
@@ -123,3 +123,10 @@ flatpak install flathub org.fedoraproject.MediaWriter
 {% endtabs %}
 
 ## Як зробити мультизавантажувальну флешку за допомогою Ventoy?
+
+{% embed url="https://www.youtube.com/watch?v=3ZRoLtJcSFw" %}
+
+## Де можна завантажити Ventoy?
+
+{% embed url="https://www.ventoy.net/en/index.html" %}
+
