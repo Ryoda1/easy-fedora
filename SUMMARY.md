@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Добро пожаловать!](README.md)
+* [Ласкаво просимо!](README.md)
 
-## Установка
+## Встановлення
 
-* [Начало](ustanovka/nachalo.md)
+* [Початок](vstanovlennya/pochatok.md)
