@@ -121,3 +121,5 @@ flatpak install flathub org.fedoraproject.MediaWriter
 [https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg](https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg)
 {% endtab %}
 {% endtabs %}
+
+## Як зробити мультизавантажувальну флешку за допомогою Ventoy?
