@@ -108,7 +108,7 @@ description: Усе починається з першого кроку.
 
 {% tabs %}
 {% tab title="Linux" %}
-```
+```bash
 flatpak install flathub org.fedoraproject.MediaWriter
 ```
 {% endtab %}
