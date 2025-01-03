@@ -89,3 +89,12 @@ description: Усе починається з першого кроку.
 {% hint style="info" %}
 Ці спіни дозволяють вибрати Fedora з різними робочими середовищами та функціоналом в залежності від ваших потреб.
 {% endhint %}
+
+## Де можна завантажити Fedora Spins?
+
+{% embed url="https://fedoraproject.org/spins" %}
+
+## Альтернативні методи встановлення Fedora?
+
+{% embed url="https://alt.fedoraproject.org/" %}
+
