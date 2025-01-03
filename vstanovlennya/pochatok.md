@@ -98,3 +98,26 @@ description: Усе починається з першого кроку.
 
 {% embed url="https://alt.fedoraproject.org/" %}
 
+## Чим записати Fedora на флешку?
+
+Фірмовою мультиплатформною утилітою: **Fedora Media Writer.**
+
+<figure><img src="../.gitbook/assets/obraz (15).png" alt=""><figcaption><p>Fedora Media Writer</p></figcaption></figure>
+
+**Встановлення Fedora Media Writer**
+
+{% tabs %}
+{% tab title="Linux" %}
+```
+flatpak install flathub org.fedoraproject.MediaWriter
+```
+{% endtab %}
+
+{% tab title="Windows" %}
+[https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe](https://getfedora.org/fmw/FedoraMediaWriter-win32-latest.exe)
+{% endtab %}
+
+{% tab title="Mac OS " %}
+[https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg](https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg)
+{% endtab %}
+{% endtabs %}
