@@ -7,3 +7,4 @@
 * [Початок](vstanovlennya/pochatok/README.md)
   * [Розмітка диска](vstanovlennya/pochatok/rozmitka-diska.md)
   * [Монтування дисків](vstanovlennya/pochatok/montuvannya-diskiv.md)
+  * [Fstab](vstanovlennya/pochatok/fstab.md)
