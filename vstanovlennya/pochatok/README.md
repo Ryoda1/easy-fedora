@@ -12,7 +12,7 @@ description: Усе починається з першого кроку.
 
 ## **Де завантажити Fedora Linux?**
 
-<figure><img src="../../.gitbook/assets/obraz.png" alt=""><figcaption><p>Офіційний сайт fedora Linux</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (3).png" alt=""><figcaption><p>Офіційний сайт fedora Linux</p></figcaption></figure>
 
 ## Огляд Fedora Linux
 
@@ -27,12 +27,12 @@ description: Усе починається з першого кроку.
 **Fedora KDE Plasma Desktop**\
 Повноцінний, сучасний робочий стіл, побудований на середовищі KDE Plasma.
 
-<figure><img src="../../.gitbook/assets/obraz (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Xfce**\
 Легке та швидке робоче середовище Xfce, ідеальне для старіших або менш потужних комп'ютерів.
 
-<figure><img src="../../.gitbook/assets/obraz (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora LXQt**\
 Легке та швидке робоче середовище LXQt, ідеальне для старіших або менш потужних комп'ютерів.
@@ -82,7 +82,7 @@ description: Усе починається з першого кроку.
 
 **Fedora Miracle**
 
-Спін, що пропонує віконний менеджер Miracle, який забезпечує привабливий та ефективний досвід роботи з вікнами.&#x20;
+Спін, що пропонує віконний менеджер Miracle, який забезпечує привабливий та ефективний досвід роботи з вікнами.
 
 <figure><img src="../../.gitbook/assets/obraz (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -129,4 +129,3 @@ flatpak install flathub org.fedoraproject.MediaWriter
 ## Де можна завантажити Ventoy?
 
 {% embed url="https://www.ventoy.net/en/index.html" %}
-
