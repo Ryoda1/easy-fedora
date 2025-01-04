@@ -26,3 +26,10 @@ description: Ручна розмітка у дистрибутиві Fedora Linu
 Щоб усе працювало правильно, необхідно правильно налаштувати під час ручної розмітки в Blivet-GUI підтоми (subvolumes) для btrfs (порядок створення знизу догори!)
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/obraz (16).png" alt=""><figcaption></figcaption></figure>
+
+```
+@log /var/log
+@home /home
+@ /
+```
