@@ -9,3 +9,4 @@
   * [Монтування дисків](vstanovlennya/pochatok/montuvannya-diskiv.md)
   * [Fstab](vstanovlennya/pochatok/fstab.md)
   * [Оновлення системи](vstanovlennya/pochatok/onovlennya-sistemi.md)
+  * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
