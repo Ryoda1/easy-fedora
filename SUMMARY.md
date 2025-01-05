@@ -10,3 +10,4 @@
   * [Fstab](vstanovlennya/pochatok/fstab.md)
   * [Оновлення системи](vstanovlennya/pochatok/onovlennya-sistemi.md)
   * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
+  * [Встановлення кодеків](vstanovlennya/pochatok/vstanovlennya-kodekiv.md)
