@@ -12,3 +12,4 @@
   * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
   * [Встановлення кодеків](vstanovlennya/pochatok/vstanovlennya-kodekiv.md)
   * [Додаткові налаштування GNOME](vstanovlennya/pochatok/dodatkovi-nalashtuvannya-gnome.md)
+  * [Термінал. Початок роботи](vstanovlennya/pochatok/terminal.-pochatok-roboti.md)
