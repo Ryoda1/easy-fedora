@@ -11,3 +11,4 @@
   * [Оновлення системи](vstanovlennya/pochatok/onovlennya-sistemi.md)
   * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
   * [Встановлення кодеків](vstanovlennya/pochatok/vstanovlennya-kodekiv.md)
+  * [Додаткові налаштування GNOME](vstanovlennya/pochatok/dodatkovi-nalashtuvannya-gnome.md)
