@@ -27,64 +27,64 @@ description: Усе починається з першого кроку.
 **Fedora KDE Plasma Desktop**\
 Повноцінний, сучасний робочий стіл, побудований на середовищі KDE Plasma.
 
-<figure><img src="../../.gitbook/assets/obraz (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (5).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Xfce**\
 Легке та швидке робоче середовище Xfce, ідеальне для старіших або менш потужних комп'ютерів.
 
-<figure><img src="../../.gitbook/assets/obraz (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (6).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora LXQt**\
 Легке та швидке робоче середовище LXQt, ідеальне для старіших або менш потужних комп'ютерів.
 
-<figure><img src="../../.gitbook/assets/obraz (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (9).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora MATE-Compiz**\
 Класичний робочий стіл MATE з додатковим 3D-менеджером вікон Compiz.
 
-<figure><img src="../../.gitbook/assets/obraz (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (8).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Cinnamon**\
 Сучасний робочий стіл Cinnamon, відомий своєю простотою та традиційним виглядом.
 
-<figure><img src="../../.gitbook/assets/obraz (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (7).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora LXDE**\
 Легке та швидке робоче середовище LXDE, ідеальне для старіших або менш потужних комп'ютерів.
 
-<figure><img src="../../.gitbook/assets/obraz (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (11).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora SoaS (Sugar on a Stick)**\
 Спеціалізований спін для освітніх цілей з інтерфейсом Sugar.
 
-<figure><img src="../../.gitbook/assets/obraz (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (12).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora i3**\
 Легке та швидке робоче середовище i3, ідеальне для досвідчених користувачів, які віддають перевагу керуванню вікнами через клавіатуру.
 
-<figure><img src="../../.gitbook/assets/obraz (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (10).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Budgie**\
 Сучасний робочий стіл Budgie, відомий своєю простотою та елегантністю.
 
-<figure><img src="../../.gitbook/assets/obraz (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (13).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Sway**\
 Менеджер вікон Sway, сумісний з Wayland, для користувачів, які віддають перевагу керуванню вікнами через клавіатуру.
 
-<figure><img src="../../.gitbook/assets/obraz (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (14).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora KDE Plasma Mobile**
 
 Спін, побудований на основі KDE Plasma Desktop, адаптований для мобільних пристроїв. Інтерфейс, орієнтований на сенсорне керування, підходить для смартфонів та планшетів.
 
-<figure><img src="../../.gitbook/assets/obraz (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (15).png" alt=""><figcaption></figcaption></figure>
 
 **Fedora Miracle**
 
 Спін, що пропонує віконний менеджер Miracle, який забезпечує привабливий та ефективний досвід роботи з вікнами.
 
-<figure><img src="../../.gitbook/assets/obraz (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (17).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ці спіни дозволяють вибрати Fedora з різними робочими середовищами та функціоналом в залежності від ваших потреб.
@@ -102,7 +102,7 @@ description: Усе починається з першого кроку.
 
 Фірмовою мультиплатформною утилітою: **Fedora Media Writer.**
 
-<figure><img src="../../.gitbook/assets/obraz (15).png" alt=""><figcaption><p>Fedora Media Writer</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (18).png" alt=""><figcaption><p>Fedora Media Writer</p></figcaption></figure>
 
 **Встановлення Fedora Media Writer**
 

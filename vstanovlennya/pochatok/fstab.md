@@ -21,4 +21,4 @@ description: Для власників твердотільних накопич
 
 Для розділів: /, /home, /var/log.
 
-<figure><img src="../../.gitbook/assets/obraz (20).png" alt=""><figcaption><p>Редагування файлу <code>fstab</code> у GNU/Linux.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (23).png" alt=""><figcaption><p>Редагування файлу <code>fstab</code> у GNU/Linux.</p></figcaption></figure>
