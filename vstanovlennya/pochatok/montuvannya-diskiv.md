@@ -66,7 +66,7 @@ mount опції -t файлова_система -o опції_монтуван
 sudo mount /dev/sdc2 /mnt/
 ```
 
-<figure><img src="../../.gitbook/assets/obraz (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (17).png" alt=""><figcaption></figcaption></figure>
 
 У більшості випадків вам доведеться виконувати команду mount з правами суперкористувача, якщо інше не вказано в fstab (опція монтування users). Ви можете подивитися інформацію про процес монтування, додавши опцію -v:
 
@@ -74,7 +74,7 @@ sudo mount /dev/sdc2 /mnt/
  sudo mount -v /dev/sdc2 /mnt/
 ```
 
-<figure><img src="../../.gitbook/assets/obraz (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (18).png" alt=""><figcaption></figcaption></figure>
 
 Якщо потрібно, ви можете вказати файлову систему за допомогою опції  `-t`:
 
@@ -155,7 +155,7 @@ sudo umount /mnt
 <strong>lsof -w /dev/sdb6
 </strong></code></pre>
 
-<figure><img src="../../.gitbook/assets/obraz (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (19).png" alt=""><figcaption></figcaption></figure>
 
 Тут ви бачите всю необхідну інформацію, щоб зрозуміти, що відбувається і що з цим робити. Утиліта вивела назву програми, її PID, і навіть файл, з яким вона працює. Ви можете завершити всі програми, а потім знову спробувати або скористатися опцією -l, файлову систему буде відключено негайно, незважаючи на те, що вона зайнята.
 
