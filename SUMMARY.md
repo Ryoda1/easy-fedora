@@ -15,3 +15,4 @@
   * [Термінал. Початок роботи](vstanovlennya/pochatok/terminal.-pochatok-roboti/README.md)
     * [Увімкнення "шорткату" для Терміналу.](vstanovlennya/pochatok/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
     * [Встановлюємо консольний софт](vstanovlennya/pochatok/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
+    * [Консольні команди для GNU/Linux](vstanovlennya/pochatok/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
