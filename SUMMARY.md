@@ -2,17 +2,17 @@
 
 * [Ласкаво просимо!](README.md)
 
-## Встановлення
+## easy fedora
 
-* [Початок](vstanovlennya/pochatok/README.md)
-  * [Розмітка диска](vstanovlennya/pochatok/rozmitka-diska.md)
-  * [Монтування дисків](vstanovlennya/pochatok/montuvannya-diskiv.md)
-  * [Fstab](vstanovlennya/pochatok/fstab.md)
-  * [Оновлення системи](vstanovlennya/pochatok/onovlennya-sistemi.md)
-  * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
-  * [Встановлення кодеків](vstanovlennya/pochatok/vstanovlennya-kodekiv.md)
-  * [Додаткові налаштування GNOME](vstanovlennya/pochatok/dodatkovi-nalashtuvannya-gnome.md)
-  * [Термінал. Початок роботи](vstanovlennya/pochatok/terminal.-pochatok-roboti/README.md)
-    * [Увімкнення "шорткату" для Терміналу.](vstanovlennya/pochatok/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
-    * [Встановлюємо консольний софт](vstanovlennya/pochatok/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
-    * [Консольні команди для GNU/Linux](vstanovlennya/pochatok/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
+* [Початок](easy-fedora/pochatok/README.md)
+  * [Розмітка диска](easy-fedora/pochatok/rozmitka-diska.md)
+  * [Монтування дисків](easy-fedora/pochatok/montuvannya-diskiv.md)
+  * [Fstab](easy-fedora/pochatok/fstab.md)
+  * [Оновлення системи](easy-fedora/pochatok/onovlennya-sistemi.md)
+  * [Оновлення до Beta.](easy-fedora/pochatok/onovlennya-do-beta..md)
+  * [Встановлення кодеків](easy-fedora/pochatok/vstanovlennya-kodekiv.md)
+  * [Додаткові налаштування GNOME](easy-fedora/pochatok/dodatkovi-nalashtuvannya-gnome.md)
+  * [Термінал. Початок роботи](easy-fedora/pochatok/terminal.-pochatok-roboti/README.md)
+    * [Увімкнення "шорткату" для Терміналу.](easy-fedora/pochatok/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
+    * [Встановлюємо консольний софт](easy-fedora/pochatok/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
+    * [Консольні команди для GNU/Linux](easy-fedora/pochatok/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
