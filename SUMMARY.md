@@ -12,5 +12,6 @@
   * [Оновлення до Beta.](vstanovlennya/pochatok/onovlennya-do-beta..md)
   * [Встановлення кодеків](vstanovlennya/pochatok/vstanovlennya-kodekiv.md)
   * [Додаткові налаштування GNOME](vstanovlennya/pochatok/dodatkovi-nalashtuvannya-gnome.md)
-  * [Термінал. Початок роботи](vstanovlennya/pochatok/terminal.-pochatok-roboti.md)
-  * [Увімкнення "шорткату" для Терміналу.](vstanovlennya/pochatok/uvimknennya-shortkatu-dlya-terminalu..md)
+  * [Термінал. Початок роботи](vstanovlennya/pochatok/terminal.-pochatok-roboti/README.md)
+    * [Увімкнення "шорткату" для Терміналу.](vstanovlennya/pochatok/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
+    * [Встановлюємо консольний софт](vstanovlennya/pochatok/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
