@@ -1,4 +1,5 @@
 ---
+icon: hand-wave
 cover: .gitbook/assets/Zrzut ekranu z 2024-11-06 22-29-45.png
 coverY: 101.07096774193555
 layout:
