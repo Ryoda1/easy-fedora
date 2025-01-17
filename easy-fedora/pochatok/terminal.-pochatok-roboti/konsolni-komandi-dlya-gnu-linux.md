@@ -133,3 +133,5 @@ file /tmp/
 ```bash
 /tmp/: sticky, directory
 ```
+
+### **Команда touch**
