@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Ласкаво просимо!](README.md)
-
 ## easy fedora
 
+* [Ласкаво просимо!](README.md)
 * [Початок](easy-fedora/pochatok/README.md)
   * [Розмітка диска](easy-fedora/pochatok/rozmitka-diska.md)
   * [Монтування дисків](easy-fedora/pochatok/montuvannya-diskiv.md)
