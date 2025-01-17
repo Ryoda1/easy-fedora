@@ -37,3 +37,5 @@ Vim — це потужний текстовий редактор для тер�
 ```bash
 sudo dnf install vim 
 ```
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
