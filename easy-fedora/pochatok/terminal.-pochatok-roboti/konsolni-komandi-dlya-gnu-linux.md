@@ -247,3 +247,5 @@ cp file.txt /backup
 ```bash
 cp -R Pictures /opt/backup
 ```
+
+### **Команда mv**
