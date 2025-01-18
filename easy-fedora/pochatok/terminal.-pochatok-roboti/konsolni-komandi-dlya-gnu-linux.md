@@ -4,7 +4,7 @@ description: Довідник консольних команд для Linux.
 
 # Консольні команди для GNU/Linux
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Шпаргалка консольних команд для Linux.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Шпаргалка консольних команд для Linux.</p></figcaption></figure>
 
 ## Нехай вам допоможе...
 
