@@ -483,4 +483,4 @@ groupdel mygroup
 usermod -a -G sudo ravesligroup
 ```
 
-## **Управление процессами** <a href="#upravlenie-processami" id="upravlenie-processami"></a>
+## **Управління процесами**
