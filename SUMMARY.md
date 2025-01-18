@@ -20,3 +20,7 @@
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
     * [Flathub-beta](easy-fedora/repozitoriyi/flathub/flathub-beta.md)
+  * [Fedora-corp](easy-fedora/repozitoriyi/fedora-corp.md)
+* [Відеокарти](easy-fedora/videokarti/README.md)
+  * [AMD RADEON](easy-fedora/videokarti/amd-radeon.md)
+  * [NVIDIA](easy-fedora/videokarti/nvidia.md)
