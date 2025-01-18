@@ -18,4 +18,5 @@
     * [VIM](easy-fedora/pochatok/terminal.-pochatok-roboti/vim.md)
 * [Репозиторії](repozitoriyi/README.md)
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
-  * [Flathub](repozitoriyi/flathub.md)
+  * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
+    * [Flathub-beta](easy-fedora/repozitoriyi/flathub/flathub-beta.md)
