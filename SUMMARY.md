@@ -26,4 +26,5 @@
   * [NVIDIA](easy-fedora/videokarti/nvidia/README.md)
     * [Встановлення драйверів для Nvidia](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/README.md)
       * [Для більш "старих" Nvidia.](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/dlya-bilsh-starikh-nvidia..md)
+    * [Розгін відеокарти NVIDIA](easy-fedora/videokarti/nvidia/rozgin-videokarti-nvidia.md)
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
