@@ -26,5 +26,6 @@
   * [NVIDIA](easy-fedora/videokarti/nvidia/README.md)
     * [Встановлення драйверів для Nvidia](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/README.md)
       * [Для більш "старих" Nvidia.](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/dlya-bilsh-starikh-nvidia..md)
+      * [Встановлення драйверів для NVIDIA Optimus](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/vstanovlennya-draiveriv-dlya-nvidia-optimus.md)
     * [Розгін відеокарти NVIDIA](easy-fedora/videokarti/nvidia/rozgin-videokarti-nvidia.md)
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
