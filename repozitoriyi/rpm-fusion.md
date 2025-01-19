@@ -14,7 +14,7 @@ RPM Fusion був створений як комбінація з трьох і�
 
 ## Як увімкнути RPM Fusion?
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Free_ repository
 

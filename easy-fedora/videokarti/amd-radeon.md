@@ -16,7 +16,7 @@ coverY: 0
 
 CoreCtrl — це утиліта для керування апаратним забезпеченням на Linux, яка дозволяє користувачам налаштовувати продуктивність і енергоспоживання процесорів та відеокарт.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>  CoreCrtl</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>  CoreCrtl</p></figcaption></figure>
 
 ### Встановлення  CoreCtrl
 

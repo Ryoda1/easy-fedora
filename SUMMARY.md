@@ -23,4 +23,5 @@
   * [Fedora-corp](easy-fedora/repozitoriyi/fedora-corp.md)
 * [Відеокарти](easy-fedora/videokarti/README.md)
   * [AMD RADEON](easy-fedora/videokarti/amd-radeon.md)
-  * [NVIDIA](easy-fedora/videokarti/nvidia.md)
+  * [NVIDIA](easy-fedora/videokarti/nvidia/README.md)
+    * [Встановлення драйверів для Nvidia](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia.md)
