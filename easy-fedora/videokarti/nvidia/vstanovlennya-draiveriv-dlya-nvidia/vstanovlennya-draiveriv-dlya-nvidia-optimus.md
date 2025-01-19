@@ -91,13 +91,3 @@ sudo dnf remove \*nvidia\*
 ```bash
 sudo dracut --force
 ```
-
-<details>
-
-<summary>Джерело </summary>
-
-Обережно: джерело на російській мові.
-
-[https://www.easycoding.org/2017/01/11/pravilnaya-ustanovka-drajverov-nvidia-v-fedora.html](https://www.easycoding.org/2017/01/11/pravilnaya-ustanovka-drajverov-nvidia-v-fedora.html)
-
-</details>
