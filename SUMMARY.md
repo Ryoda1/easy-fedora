@@ -38,3 +38,4 @@
     * [Microsoft Edge](easy-fedora/dodatki/brauzeri/microsoft-edge.md)
     * [Zen Browser](easy-fedora/dodatki/brauzeri/zen-browser.md)
   * [Telegram](easy-fedora/dodatki/telegram.md)
+  * [Thunderbird](easy-fedora/dodatki/thunderbird.md)
