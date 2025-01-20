@@ -39,3 +39,5 @@
     * [Zen Browser](easy-fedora/dodatki/brauzeri/zen-browser.md)
   * [Telegram](easy-fedora/dodatki/telegram.md)
   * [Thunderbird](easy-fedora/dodatki/thunderbird.md)
+  * [Офіси.](easy-fedora/dodatki/ofisi..md)
+  * [Nautilus](easy-fedora/dodatki/nautilus.md)
