@@ -32,3 +32,4 @@
 * [Додатки](easy-fedora/dodatki/README.md)
   * [Flatpak](easy-fedora/dodatki/flatpak/README.md)
     * [Flatpak](easy-fedora/dodatki/flatpak/flatpak.md)
+    * [Flatseal](easy-fedora/dodatki/flatpak/flatseal.md)
