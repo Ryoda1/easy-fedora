@@ -58,6 +58,7 @@
   * [Blur my shell](easy-fedora/rozshirennya/blur-my-shell.md)
 * [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
+  * [Цветные папки](easy-fedora/zovnishnii-viglyad/cvetnye-papki.md)
 
 ***
 
