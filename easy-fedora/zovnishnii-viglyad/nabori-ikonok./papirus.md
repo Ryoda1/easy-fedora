@@ -2,9 +2,9 @@
 description: Найбільший набір іконок для GNU/Linux.
 ---
 
-# Іконки Papirus
+# Papirus
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 ## Встановлюємо набір іконок.
 
