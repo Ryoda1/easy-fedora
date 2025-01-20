@@ -37,3 +37,4 @@
     * [Google Chrome](easy-fedora/dodatki/brauzeri/google-chrome.md)
     * [Microsoft Edge](easy-fedora/dodatki/brauzeri/microsoft-edge.md)
     * [Zen Browser](easy-fedora/dodatki/brauzeri/zen-browser.md)
+  * [Telegram](easy-fedora/dodatki/telegram.md)
