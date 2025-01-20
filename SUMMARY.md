@@ -57,6 +57,7 @@
   * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)
   * [Blur my shell](easy-fedora/rozshirennya/blur-my-shell.md)
 * [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
+  * [Іконки Papirus](easy-fedora/zovnishnii-viglyad/ikonki-papirus.md)
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
 
 ***
