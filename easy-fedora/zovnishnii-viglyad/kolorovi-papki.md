@@ -2,9 +2,9 @@
 description: Змінюємо колір папок в системі
 ---
 
-# Кольрові папки
+# Кольорові папки
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x31;**. Встановіть іконки MoreWinta**
 
@@ -15,4 +15,3 @@ description: Змінюємо колір папок в системі
 2. **Встановіть плагін** Accent Icons
 
 {% embed url="https://extensions.gnome.org/extension/7535/accent-directories/" %}
-
