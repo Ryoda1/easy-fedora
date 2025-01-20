@@ -14,4 +14,4 @@ description: Де брати софт на Fedora Linux?
 У цьому розділі описано, як підключити сторонні репозиторії.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Репозиторії Fedora Workstation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Репозиторії Fedora Workstation</p></figcaption></figure>

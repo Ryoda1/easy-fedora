@@ -31,5 +31,7 @@
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
 * [Додатки](easy-fedora/dodatki/README.md)
   * [Flatpak](easy-fedora/dodatki/flatpak/README.md)
-    * [Flatpak](easy-fedora/dodatki/flatpak/flatpak.md)
     * [Flatseal](easy-fedora/dodatki/flatpak/flatseal.md)
+  * [Браузери](easy-fedora/dodatki/brauzeri/README.md)
+    * [Firefox](easy-fedora/dodatki/brauzeri/firefox.md)
+    * [Google Chrome](easy-fedora/dodatki/brauzeri/google-chrome.md)
