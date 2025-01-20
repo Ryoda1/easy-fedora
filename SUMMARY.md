@@ -52,3 +52,7 @@
   * [Gimp](easy-fedora/dodatki/gimp.md)
   * [Inkscape](easy-fedora/dodatki/inkscape.md)
   * [Spotify](easy-fedora/dodatki/spotify.md)
+* [Розширення](easy-fedora/rozshirennya/README.md)
+  * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
+  * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)
+  * [Blur my shell](easy-fedora/rozshirennya/blur-my-shell.md)
