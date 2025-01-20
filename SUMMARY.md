@@ -46,3 +46,4 @@
     * [Microsoft Office](easy-fedora/dodatki/robota-z-dokumentami-ofisi-./microsoft-office.md)
   * [OBS Studio](easy-fedora/dodatki/obs-studio.md)
   * [KDENlive](easy-fedora/dodatki/kdenlive.md)
+  * [DaVinci Resolve](easy-fedora/dodatki/davinci-resolve.md)
