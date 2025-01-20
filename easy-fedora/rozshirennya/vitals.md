@@ -1,5 +1,5 @@
 ---
-description: Моніторинг Ресурсів
+description: Моніторинг ресурсів
 ---
 
 # Vitals
