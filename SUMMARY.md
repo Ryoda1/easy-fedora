@@ -43,3 +43,5 @@
   * [Робота з документами (Офіси).](easy-fedora/dodatki/robota-z-dokumentami-ofisi-./README.md)
     * [LibreOffice](easy-fedora/dodatki/robota-z-dokumentami-ofisi-./libreoffice.md)
     * [WPS office](easy-fedora/dodatki/robota-z-dokumentami-ofisi-./wps-office.md)
+    * [Microsoft Office](easy-fedora/dodatki/robota-z-dokumentami-ofisi-./microsoft-office.md)
+  * [OBS Studio](easy-fedora/dodatki/obs-studio.md)
