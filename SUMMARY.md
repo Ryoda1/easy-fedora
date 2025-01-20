@@ -58,6 +58,7 @@
   * [Blur my shell](easy-fedora/rozshirennya/blur-my-shell.md)
   * [Dash to Dock](easy-fedora/rozshirennya/dash-to-dock.md)
   * [Vitals](easy-fedora/rozshirennya/vitals.md)
+  * [Gsconnect](easy-fedora/rozshirennya/gsconnect.md)
 * [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
   * [Кольорові папки](easy-fedora/zovnishnii-viglyad/kolorovi-papki.md)
