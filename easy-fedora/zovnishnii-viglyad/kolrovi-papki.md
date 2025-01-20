@@ -2,7 +2,7 @@
 description: Змінюємо колір папок в системі
 ---
 
-# Цветные папки
+# Кольрові папки
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
