@@ -8,7 +8,7 @@
 sudo dnf install fastfetch
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>fastfetch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>fastfetch</p></figcaption></figure>
 
 ## inxi
 
@@ -18,7 +18,7 @@ inxi — це консольна утиліта для відображення 
 sudo dnf install inxi
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>inxi</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>inxi</p></figcaption></figure>
 
 ## htop
 

@@ -4,7 +4,7 @@ description: Термінал у Linux — це просто!
 
 # Термінал. Початок роботи
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Кастомний термінал у Fedora Linux</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>Кастомний термінал у Fedora Linux</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Більшість людей, які хоча б мимохідь чули про GNU/Linux, знайомі з поняттям «гіковського» та «непохитного» термінала. Насправді, це дуже потужний інструмент, і, як ви побачите, продовжуючи вивчення цього гайда, часто буває простіше ввести одну команду, ніж шукати налаштування через інтерфейс.

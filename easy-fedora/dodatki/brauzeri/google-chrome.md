@@ -13,3 +13,9 @@ sudo dnf install google-chrome-stable
 ```bash
 flatpak install flathub com.google.Chrome
 ```
+
+## Ви можете скачати RPM пакет з офіційного сайту Google.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://www.google.com/chrome/" %}
