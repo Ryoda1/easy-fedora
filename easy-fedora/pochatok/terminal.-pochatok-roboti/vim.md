@@ -4,7 +4,7 @@ description: Витяг команд для VIM
 
 # VIM
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>VIM</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>VIM</p></figcaption></figure>
 
 Для запуску навчання введіть:
 

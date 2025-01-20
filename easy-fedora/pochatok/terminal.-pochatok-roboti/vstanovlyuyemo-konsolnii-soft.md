@@ -8,7 +8,7 @@
 sudo dnf install fastfetch
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>fastfetch</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>fastfetch</p></figcaption></figure>
 
 ## inxi
 
@@ -18,7 +18,7 @@ inxi — це консольна утиліта для відображення 
 sudo dnf install inxi
 ```
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>inxi</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>inxi</p></figcaption></figure>
 
 ## htop
 
@@ -28,7 +28,7 @@ sudo dnf install inxi
 sudo dnf install htop
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>htop</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>htop</p></figcaption></figure>
 
 ## vim
 
@@ -38,4 +38,4 @@ Vim — це потужний текстовий редактор для тер�
 sudo dnf install vim 
 ```
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

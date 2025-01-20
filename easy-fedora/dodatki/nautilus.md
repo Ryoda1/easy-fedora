@@ -7,3 +7,9 @@
 ```bash
 sudo dnf install gnome-kra-ora-thumbnailer
 ```
+
+## Прев'ю WebP файлів <a href="#prevyu-webp-failov" id="prevyu-webp-failov"></a>
+
+```bash
+sudo dnf install webp-pixbuf-loader
+```
