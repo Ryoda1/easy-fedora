@@ -29,4 +29,6 @@
       * [Встановлення драйверів для NVIDIA Optimus](easy-fedora/videokarti/nvidia/vstanovlennya-draiveriv-dlya-nvidia/vstanovlennya-draiveriv-dlya-nvidia-optimus.md)
     * [Розгін відеокарти NVIDIA](easy-fedora/videokarti/nvidia/rozgin-videokarti-nvidia.md)
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
-* [Додатки](easy-fedora/dodatki.md)
+* [Додатки](easy-fedora/dodatki/README.md)
+  * [Flatpak](easy-fedora/dodatki/flatpak/README.md)
+    * [Flatpak](easy-fedora/dodatki/flatpak/flatpak.md)

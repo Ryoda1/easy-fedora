@@ -14,7 +14,7 @@ sudo dnf upgrade --refresh
 Тим не менше, команда Fedora Linux рекомендує оновлюватися штатним способом через магазин додатків Gnome Software.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Gnome Software в Fedora Linux</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Gnome Software в Fedora Linux</p></figcaption></figure>
 
 ## **Чи можна оновлюватися "через версію"?**
 
