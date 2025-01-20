@@ -98,3 +98,11 @@ sudo mv libgio* disabled-libraries
 sudo mv libgmodule* disabled-libraries
 ```
 
+## Альтернативний Метод встановлення DaVinci
+
+```bash
+sudo dnf copr enable -y herzen/davinci-helper
+sudo dnf install -y davinci-helper
+```
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
