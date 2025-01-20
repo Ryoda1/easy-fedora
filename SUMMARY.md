@@ -50,3 +50,5 @@
   * [Ocenaudio](easy-fedora/dodatki/ocenaudio.md)
   * [Krita](easy-fedora/dodatki/krita.md)
   * [Gimp](easy-fedora/dodatki/gimp.md)
+  * [Inkscape](easy-fedora/dodatki/inkscape.md)
+  * [Spotify](easy-fedora/dodatki/spotify.md)
