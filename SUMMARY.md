@@ -56,7 +56,8 @@
   * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
   * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)
   * [Blur my shell](easy-fedora/rozshirennya/blur-my-shell.md)
-* [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad.md)
+* [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
+  * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
 
 ***
 
