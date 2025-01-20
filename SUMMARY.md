@@ -48,3 +48,5 @@
   * [KDENlive](easy-fedora/dodatki/kdenlive.md)
   * [DaVinci Resolve](easy-fedora/dodatki/davinci-resolve.md)
   * [Ocenaudio](easy-fedora/dodatki/ocenaudio.md)
+  * [Krita](easy-fedora/dodatki/krita.md)
+  * [Gimp](easy-fedora/dodatki/gimp.md)
