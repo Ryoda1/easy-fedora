@@ -19,3 +19,5 @@ flatpak install flathub com.valvesoftware.Steam
 ```bash
 flatpak install flathub com.github.tchx84.Flatseal
 ```
+
+<figure><img src="../../.gitbook/assets/obraz (21).png" alt=""><figcaption></figcaption></figure>
