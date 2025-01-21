@@ -64,6 +64,7 @@
   * [Кольорові папки](easy-fedora/zovnishnii-viglyad/kolorovi-papki.md)
 * [Геймінг](easy-fedora/geiming/README.md)
   * [Steam](easy-fedora/geiming/steam.md)
+  * [ProtonDB](easy-fedora/geiming/protondb.md)
 
 ***
 
