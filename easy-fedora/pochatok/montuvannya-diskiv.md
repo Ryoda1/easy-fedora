@@ -8,11 +8,11 @@ description: GNOME Disk і команда mount
 
 1. Відкрийте програму **"Диски"**.
 
-<figure><img src="../../.gitbook/assets/obraz.png" alt=""><figcaption><p><br></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
 2. Виберіть потрібний диск у лівій панелі.
 
-<figure><img src="../../.gitbook/assets/obraz (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/obraz (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Натисніть на розділ, який потрібно примонтувати.
 4. Натисніть на кнопку **"Відтворити"** (трикутник внизу).
@@ -55,7 +55,7 @@ mount опції -t файлова_система -o опції_монтуван
 * `-R`, `--rbind` — перемонтувати локальну папку.
 
 {% hint style="info" %}
-Це не всі опції, але основні, які вам знадобляться під час роботи з утилітою.&#x20;
+Це не всі опції, але основні, які вам знадобляться під час роботи з утилітою.
 {% endhint %}
 
 ### **Монтування розділів за допомогою команди `mount`:**
@@ -76,13 +76,13 @@ sudo mount /dev/sdc2 /mnt/
 
 <figure><img src="../../.gitbook/assets/obraz (18).png" alt=""><figcaption></figcaption></figure>
 
-Якщо потрібно, ви можете вказати файлову систему за допомогою опції  `-t`:
+Якщо потрібно, ви можете вказати файлову систему за допомогою опції `-t`:
 
 ```bash
 sudo mount -v -t ext4 /dev/sdc2 /mnt
 ```
 
-Якщо необхідно змонтувати файлову систему тільки для читання, то ви можете використати опцію  `-r` або опцію монтування `-o ro` результат буде однаковим:
+Якщо необхідно змонтувати файлову систему тільки для читання, то ви можете використати опцію `-r` або опцію монтування `-o ro` результат буде однаковим:
 
 ```bash
 sudo mount -t ext4 -r /dev/sdc2 /mnt
