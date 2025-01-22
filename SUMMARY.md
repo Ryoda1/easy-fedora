@@ -66,6 +66,7 @@
 * [Геймінг](easy-fedora/geiming/README.md)
   * [Wine](easy-fedora/geiming/wine.md)
   * [Steam](easy-fedora/geiming/steam.md)
+  * [Lutris](easy-fedora/geiming/lutris.md)
   * [PortProton](easy-fedora/geiming/portproton.md)
   * [ProtonDB](easy-fedora/geiming/protondb.md)
   * [ProtonPlus](easy-fedora/geiming/protonplus.md)
