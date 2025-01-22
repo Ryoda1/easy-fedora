@@ -64,10 +64,10 @@
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
   * [Кольорові папки](easy-fedora/zovnishnii-viglyad/kolorovi-papki.md)
 * [Геймінг](easy-fedora/geiming/README.md)
+  * [Wine](easy-fedora/geiming/wine.md)
   * [Steam](easy-fedora/geiming/steam.md)
   * [ProtonDB](easy-fedora/geiming/protondb.md)
   * [ProtonPlus](easy-fedora/geiming/protonplus.md)
-  * [Wine](easy-fedora/geiming/wine.md)
 
 ***
 
