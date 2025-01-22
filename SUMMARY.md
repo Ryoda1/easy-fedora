@@ -54,6 +54,7 @@
   * [Inkscape](easy-fedora/dodatki/inkscape.md)
   * [Spotify](easy-fedora/dodatki/spotify.md)
   * [Wine](easy-fedora/dodatki/wine.md)
+  * [Bottles](easy-fedora/dodatki/bottles.md)
 * [Розширення](easy-fedora/rozshirennya/README.md)
   * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
   * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)
@@ -70,7 +71,6 @@
   * [PortProton](easy-fedora/geiming/portproton.md)
   * [ProtonDB](easy-fedora/geiming/protondb.md)
   * [ProtonPlus](easy-fedora/geiming/protonplus.md)
-  * [Bottles](easy-fedora/geiming/bottles.md)
 
 ***
 
