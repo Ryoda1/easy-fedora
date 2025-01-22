@@ -73,6 +73,8 @@
   * [PortProton](easy-fedora/geiming/portproton.md)
   * [ProtonDB](easy-fedora/geiming/protondb.md)
   * [ProtonPlus](easy-fedora/geiming/protonplus.md)
+* [Віртуалізація](easy-fedora/virtualizaciya/README.md)
+  * [Gnome Boxes](easy-fedora/virtualizaciya/gnome-boxes.md)
 
 ***
 
