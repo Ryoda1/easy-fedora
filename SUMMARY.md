@@ -30,6 +30,7 @@
     * [Розгін відеокарти NVIDIA](easy-fedora/videokarti/nvidia/rozgin-videokarti-nvidia.md)
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
 * [Додатки](easy-fedora/dodatki/README.md)
+  * [Refine](easy-fedora/dodatki/refine.md)
   * [Flatpak](easy-fedora/dodatki/flatpak/flatpak.md)
     * [Flatseal](easy-fedora/dodatki/flatpak/flatseal.md)
   * [Браузери](easy-fedora/dodatki/brauzeri/README.md)

@@ -4,7 +4,7 @@ description: Змінюємо колір папок в системі
 
 # Кольорові папки
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x31;**. Встановіть іконки MoreWinta**
 
