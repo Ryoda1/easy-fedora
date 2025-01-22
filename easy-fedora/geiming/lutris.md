@@ -8,6 +8,14 @@ description: Платформа для зберігання відеоігор
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
+## DNF
+
+```bash
+sudo dnf install lutris
+```
+
+## Flatpak
+
 ```bash
 flatpak install flathub net.lutris.Lutris
 ```
