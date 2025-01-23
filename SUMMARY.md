@@ -86,3 +86,4 @@
 ***
 
 * [Допомога проєкту](dopomoga-proyektu.md)
+* [Термінал](terminal.md)
