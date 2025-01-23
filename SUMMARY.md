@@ -30,6 +30,7 @@
     * [Розгін відеокарти NVIDIA](easy-fedora/videokarti/nvidia/rozgin-videokarti-nvidia.md)
     * [Утиліта GWE](easy-fedora/videokarti/nvidia/utilita-gwe.md)
 * [Шрифти](easy-fedora/shrifti/README.md)
+  * [Jetbrains mono](easy-fedora/shrifti/jetbrains-mono.md)
   * [Microsoft Fonts](easy-fedora/shrifti/microsoft-fonts.md)
 * [Додатки](easy-fedora/dodatki/README.md)
   * [Refine](easy-fedora/dodatki/refine.md)
