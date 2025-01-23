@@ -1,11 +1,7 @@
 ---
-description: Timeshift + Rsync + BTRFS
+description: Timeshift + Rsync + BTRFS (Для досвідчених користувачів.)
 ---
 
 # Резервна копія.
 
-{% hint style="warning" %}
-Для досвідчених користувачів.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

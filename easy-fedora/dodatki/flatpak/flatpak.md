@@ -4,7 +4,7 @@ description: Керування Flatpak-додатками
 
 # Flatpak
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Оновити всі Flatpak-додатки:
 

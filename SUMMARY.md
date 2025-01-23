@@ -81,6 +81,7 @@
   * [Virt-manager](easy-fedora/virtualizaciya/virt-manager.md)
 * [Резервна копія.](easy-fedora/rezervna-kopiya./README.md)
   * [Налаштовуємо підтоми BTRFS](easy-fedora/rezervna-kopiya./nalashtovuyemo-pidtomi-btrfs.md)
+  * [Timeshift](easy-fedora/rezervna-kopiya./timeshift.md)
 
 ***
 
