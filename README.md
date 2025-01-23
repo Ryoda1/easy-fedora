@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/Dodaj nagłówek.png
-coverY: -56.035294117647055
+coverY: 0
 layout:
   cover:
     visible: true
