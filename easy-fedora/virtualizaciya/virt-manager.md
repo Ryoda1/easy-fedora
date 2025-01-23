@@ -16,7 +16,7 @@ description: Проста і добре налаштована QEMU та KVM
 sudo dnf install @virtualization
 ```
 
-Альтернативно, щоб встановити обов'язкові, стандартні та додаткові пакети, виконайте:
+Іншим способом, щоб встановити обов'язкові, стандартні та додаткові пакети, виконайте:
 
 ```bash
 sudo dnf group install --with-optional virtualization
