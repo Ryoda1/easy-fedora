@@ -79,9 +79,9 @@
   * [Gnome Boxes](easy-fedora/virtualizaciya/gnome-boxes.md)
   * [DistroBox](easy-fedora/virtualizaciya/distrobox.md)
   * [Virt-manager](easy-fedora/virtualizaciya/virt-manager.md)
-* [Резервна копія.](easy-fedora/rezervna-kopiya./README.md)
-  * [Налаштовуємо підтоми BTRFS](easy-fedora/rezervna-kopiya./nalashtovuyemo-pidtomi-btrfs.md)
-  * [Timeshift](easy-fedora/rezervna-kopiya./timeshift.md)
+* [Резервна копія](easy-fedora/rezervna-kopiya/README.md)
+  * [Налаштовуємо підтоми BTRFS](easy-fedora/rezervna-kopiya/nalashtovuyemo-pidtomi-btrfs.md)
+  * [Timeshift](easy-fedora/rezervna-kopiya/timeshift.md)
 
 ***
 
