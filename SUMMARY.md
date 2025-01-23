@@ -57,6 +57,7 @@
   * [Inkscape](easy-fedora/dodatki/inkscape.md)
   * [Spotify](easy-fedora/dodatki/spotify.md)
   * [Bottles](easy-fedora/dodatki/bottles.md)
+  * [Upscaler](easy-fedora/dodatki/upscaler.md)
 * [Розширення](easy-fedora/rozshirennya/README.md)
   * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
   * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)

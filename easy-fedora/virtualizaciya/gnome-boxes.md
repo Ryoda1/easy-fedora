@@ -4,7 +4,7 @@ description: Проста і добре налаштована QEMU від пр�
 
 # Gnome Boxes
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 flatpak install flathub org.gnome.Boxes
