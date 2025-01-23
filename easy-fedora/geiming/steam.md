@@ -11,7 +11,6 @@ description: Найкрутіша ігрова платформа для Linux.
 ### RPM Fusion
 
 ```bash
-sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
 sudo dnf install steam -y
 ```
 
