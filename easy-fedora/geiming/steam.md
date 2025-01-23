@@ -8,6 +8,15 @@ description: Найкрутіша ігрова платформа для Linux.
 
 ## Встановлення:
 
+## DNF
+
+```bash
+sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
+sudo dnf install steam
+```
+
+## Flatpak
+
 ```bash
 flatpak install flathub com.valvesoftware.Steam
 ```
