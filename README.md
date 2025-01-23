@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Dodaj nagłówek(1).png
+cover: .gitbook/assets/Zrzut ekranu z 2025-01-23 21-20-22.png
 coverY: 0
 layout:
   cover:
