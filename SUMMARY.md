@@ -76,6 +76,7 @@
 * [Віртуалізація](easy-fedora/virtualizaciya/README.md)
   * [Gnome Boxes](easy-fedora/virtualizaciya/gnome-boxes.md)
   * [DistroBox](easy-fedora/virtualizaciya/distrobox.md)
+  * [Virt-manager](easy-fedora/virtualizaciya/virt-manager.md)
 
 ***
 
