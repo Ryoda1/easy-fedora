@@ -15,7 +15,7 @@ sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1
 sudo dnf install steam -y
 ```
 
-якщо репозиторії RPM Fusion не підключені:
+Якщо репозиторії RPM Fusion не підключено
 
 {% content-ref url="../../repozitoriyi/rpm-fusion.md" %}
 [rpm-fusion.md](../../repozitoriyi/rpm-fusion.md)
