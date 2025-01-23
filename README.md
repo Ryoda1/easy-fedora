@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Zrzut ekranu z 2024-11-06 22-29-45.png
-coverY: 101.07096774193555
+cover: .gitbook/assets/Dodaj nagłówek.png
+coverY: -39
 layout:
   cover:
     visible: true
@@ -29,3 +29,5 @@ Easy Fedora — це простий і зрозумілий помічник, я
 {% hint style="info" %}
 Якщо чогось не вистачає, пишіть мені в Discord — @ryooda.
 {% endhint %}
+
+<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
