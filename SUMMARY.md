@@ -11,11 +11,12 @@
   * [Оновлення до Beta.](easy-fedora/pochatok/onovlennya-do-beta..md)
   * [Встановлення кодеків](easy-fedora/pochatok/vstanovlennya-kodekiv.md)
   * [Додаткові налаштування GNOME](easy-fedora/pochatok/dodatkovi-nalashtuvannya-gnome.md)
-  * [Термінал. Початок роботи](easy-fedora/pochatok/terminal.-pochatok-roboti/README.md)
-    * [Увімкнення "шорткату" для Терміналу.](easy-fedora/pochatok/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
-    * [Встановлюємо консольний софт](easy-fedora/pochatok/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
-    * [Консольні команди для GNU/Linux](easy-fedora/pochatok/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
-    * [VIM](easy-fedora/pochatok/terminal.-pochatok-roboti/vim.md)
+* [Термінал](easy-fedora/terminal/README.md)
+  * [Термінал. Початок роботи](easy-fedora/terminal/terminal.-pochatok-roboti/README.md)
+    * [Увімкнення "шорткату" для Терміналу.](easy-fedora/terminal/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
+    * [Встановлюємо консольний софт](easy-fedora/terminal/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
+    * [Консольні команди для GNU/Linux](easy-fedora/terminal/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
+    * [VIM](easy-fedora/terminal/terminal.-pochatok-roboti/vim.md)
 * [Репозиторії](repozitoriyi/README.md)
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
@@ -86,4 +87,3 @@
 ***
 
 * [Допомога проєкту](dopomoga-proyektu.md)
-* [Термінал](terminal.md)
