@@ -17,6 +17,10 @@ sudo dnf install -y davinci-helper
 
 ## Ручний метод встановлення DaVinci
 
+{% hint style="danger" %}
+Цей метод може не працювати.
+{% endhint %}
+
 [Davinci Fix](davinci-resolve.md#fix-fedora-39-dlya-davinci-resolve-18.6-1) для Fedora 41
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
