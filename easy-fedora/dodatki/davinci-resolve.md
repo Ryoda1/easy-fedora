@@ -4,11 +4,20 @@ description: Найкращий відеоредактор. (Для досвід
 
 # DaVinci Resolve
 
-[Davinci Fix](davinci-resolve.md#fix-fedora-39-dlya-davinci-resolve-18.6-1) для Fedora 41
-
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-## Встановлюємо сам DaVinci Resolve
+## Автоматичний Метод встановлення DaVinci
+
+```bash
+sudo dnf copr enable -y herzen/davinci-helper
+sudo dnf install -y davinci-helper
+```
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+## Ручний метод встановлення DaVinci
+
+[Davinci Fix](davinci-resolve.md#fix-fedora-39-dlya-davinci-resolve-18.6-1) для Fedora 41
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,12 +106,3 @@ sudo mv libglib* disabled-libraries
 sudo mv libgio* disabled-libraries
 sudo mv libgmodule* disabled-libraries
 ```
-
-## Альтернативний Метод встановлення DaVinci
-
-```bash
-sudo dnf copr enable -y herzen/davinci-helper
-sudo dnf install -y davinci-helper
-```
-
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
