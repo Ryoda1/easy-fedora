@@ -16,6 +16,7 @@
   * [Встановлюємо консольний софт](easy-fedora/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
   * [Консольні команди для GNU/Linux](easy-fedora/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
   * [VIM](easy-fedora/terminal.-pochatok-roboti/vim.md)
+  * [Fish](easy-fedora/terminal.-pochatok-roboti/fish.md)
 * [Репозиторії](repozitoriyi/README.md)
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
