@@ -6,6 +6,10 @@ description: Найкращий відеоредактор. (Для досвід
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
+Dav
+
+
+
 ## Автоматичний Метод встановлення DaVinci
 
 ```bash
