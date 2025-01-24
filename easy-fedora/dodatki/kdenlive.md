@@ -12,7 +12,7 @@ description: Монтаж відео.
 flatpak install flathub org.kde.kdenlive
 ```
 
-## Встановлення кодеків
+## Встановлення кодеків libx265
 
 ```bash
 sudo dnf install x265-libs libde265
