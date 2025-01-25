@@ -17,6 +17,7 @@
   * [Консольні команди для GNU/Linux](easy-fedora/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
   * [VIM](easy-fedora/terminal.-pochatok-roboti/vim.md)
   * [Fish](easy-fedora/terminal.-pochatok-roboti/fish.md)
+  * [Oh-My-Zsh](easy-fedora/terminal.-pochatok-roboti/oh-my-zsh.md)
 * [Репозиторії](repozitoriyi/README.md)
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
