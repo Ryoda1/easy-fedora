@@ -28,3 +28,8 @@ chsh -s /usr/bin/zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+## Де знаходиться Config?
+
+```bash
+sudo nano ~/.zshrc
+```
