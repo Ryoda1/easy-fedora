@@ -1,3 +1,7 @@
+---
+description: Оболонка для терміналу
+---
+
 # Oh-My-Zsh
 
 ### Що таке Oh My Zsh?
@@ -23,3 +27,4 @@ chsh -s /usr/bin/zsh
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
