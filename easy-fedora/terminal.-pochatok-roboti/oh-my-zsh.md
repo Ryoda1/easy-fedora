@@ -30,6 +30,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## Де знаходиться Config?
 
+Конфігураційний файл для Zsh знаходиться в домашньому каталозі користувача і називається `.zshrc`
+
 ```bash
 sudo nano ~/.zshrc
 ```
+
+Ця команда відкриє файл у текстовому редакторі Nano.
