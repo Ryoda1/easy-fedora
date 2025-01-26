@@ -18,6 +18,7 @@
   * [VIM](easy-fedora/terminal.-pochatok-roboti/vim.md)
   * [Fish](easy-fedora/terminal.-pochatok-roboti/fish.md)
   * [Oh-My-Zsh](easy-fedora/terminal.-pochatok-roboti/oh-my-zsh.md)
+  * [Fastfetch](easy-fedora/terminal.-pochatok-roboti/fastfetch.md)
 * [Репозиторії](repozitoriyi/README.md)
   * [RPM Fusion](repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
