@@ -70,7 +70,7 @@ fastfetch --logo-color-[1-9] color
 
 Тут `[1-9]` є заповнювачем. Якщо ваш логотип містить кілька кольорів, ви можете визначити, який колір буде відображатися на певному місці.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 ## Джерело
 
