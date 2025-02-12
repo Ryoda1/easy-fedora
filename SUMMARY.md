@@ -72,7 +72,7 @@
 * [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
   * [Кольорові папки](easy-fedora/zovnishnii-viglyad/kolorovi-papki.md)
-  * [Нові шрифти гнома (Beta)](easy-fedora/zovnishnii-viglyad/novi-shrifti-gnoma-beta.md)
+  * [Нові шрифти Gnome (Beta)](easy-fedora/zovnishnii-viglyad/novi-shrifti-gnome-beta.md)
 * [Геймінг](easy-fedora/geiming/README.md)
   * [Lutris](easy-fedora/geiming/lutris.md)
   * [Steam](easy-fedora/geiming/steam.md)

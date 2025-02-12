@@ -1,4 +1,4 @@
-# Нові шрифти гнома (Beta)
+# Нові шрифти Gnome (Beta)
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
