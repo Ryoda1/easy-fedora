@@ -28,7 +28,7 @@ sudo mkdir /mnt/btrfs
 df -h
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Тепер монтуємо файлову систему (з урахуванням ваших результатів):
 
