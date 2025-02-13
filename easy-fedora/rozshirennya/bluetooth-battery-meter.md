@@ -4,7 +4,7 @@ description: Індикатор батареї Bluetooth
 
 # Bluetooth Battery Meter
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Bluetooth Battery Meter

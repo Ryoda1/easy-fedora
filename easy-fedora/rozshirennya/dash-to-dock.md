@@ -4,7 +4,7 @@ description: Док на робочому столі
 
 # Dash to Dock
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Dash to Dock

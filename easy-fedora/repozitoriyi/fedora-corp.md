@@ -7,6 +7,6 @@ description: >-
 
 # Fedora-corp
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://copr.fedorainfracloud.org/coprs/" %}

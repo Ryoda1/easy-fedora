@@ -4,7 +4,7 @@ description: Збільшення масштабу та покращення з�
 
 # Upscaler
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 flatpak install flathub io.gitlab.theevilskeleton.Upscaler

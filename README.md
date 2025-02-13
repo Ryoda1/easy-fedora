@@ -30,4 +30,4 @@ Easy Fedora — це простий і зрозумілий помічник, я
 Якщо чогось не вистачає, пишіть мені в Discord — @ryooda.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>

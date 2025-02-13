@@ -4,7 +4,7 @@ description: Стандартним та ідеальним браузером �
 
 # Firefox
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>firefox</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>firefox</p></figcaption></figure>
 
 ```bash
 sudo dnf install firefox

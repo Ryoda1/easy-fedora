@@ -10,7 +10,7 @@ PortProton базується на версії WINE від Valve (Proton) та 
 
 Реалізовано функцію автоматичної установки в один клік (на вкладці **Автоустановка**) популярних ігрових лаунчерів, таких як WGC, Epic Games, Battle.net, Origin, EVE Online, Rockstar, Ubisoft Connect, League of Legends та багато інших.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Встановлення **PortProton** на Fedora Linux.
 

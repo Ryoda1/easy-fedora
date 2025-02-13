@@ -16,8 +16,8 @@ sudo dnf install steam -y
 
 Якщо репозиторії RPM Fusion не підключено
 
-{% content-ref url="../../repozitoriyi/rpm-fusion.md" %}
-[rpm-fusion.md](../../repozitoriyi/rpm-fusion.md)
+{% content-ref url="../repozitoriyi/rpm-fusion.md" %}
+[rpm-fusion.md](../repozitoriyi/rpm-fusion.md)
 {% endcontent-ref %}
 
 ## Flatpak

@@ -1,6 +1,6 @@
 # Fastfetch
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Fastfetch — це інструмент командного рядка для відображення детальної інформації про вашу систему в зручному для розуміння форматі. Пам'ятаєте Neofetch, який виконував цю функцію? На жаль, Neofetch більше не оновлюється, і його навіть видалили з репозиторіїв Fedora.
@@ -32,7 +32,7 @@ fastfetch
 fastfetch --gen-config
 ```
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption><p><strong>Генерація конфіга</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p><strong>Генерація конфіга</strong></p></figcaption></figure>
 
 {% hint style="info" %}
 Для редагування файлу конфігурації Fastfetch рекомендується використовувати текстовий редактор із підтримкою JSON Scheme. Це забезпечить автодоповнення, перевірку синтаксису та підсвічування помилок, що спростить роботу з файлом.
@@ -50,7 +50,7 @@ fastfetch --list-logos
 
 Ця команда покаже коректні назви всіх доступних логотипів.
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 Список доступних логотипів дуже великий — понад 400 записів! Якщо ви хочете використовувати логотип Gnome на Fedora, можна скористатися опцією -l, щоб вказати потрібний логотип.
 
@@ -68,7 +68,7 @@ fastfetch --logo-color-[1-9] color
 
 Тут `[1-9]` є заповнювачем. Якщо ваш логотип містить кілька кольорів, ви можете визначити, який колір буде відображатися на певному місці.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 ## Джерело
 

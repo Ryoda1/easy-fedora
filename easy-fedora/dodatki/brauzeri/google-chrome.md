@@ -1,6 +1,6 @@
 # Google Chrome
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 ## DNF
 
@@ -16,6 +16,6 @@ flatpak install flathub com.google.Chrome
 
 ## Ви можете скачати RPM пакет з офіційного сайту Google.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.google.com/chrome/" %}

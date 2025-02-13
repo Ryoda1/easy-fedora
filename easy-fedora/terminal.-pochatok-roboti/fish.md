@@ -4,7 +4,7 @@ description: Оболонка для терміналу
 
 # Fish
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (48).png" alt="" width="300"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (89).png" alt="" width="300"><figcaption></figcaption></figure></div>
 
 ## Встановлення Fish shell
 
@@ -24,11 +24,11 @@ chsh -s /usr/bin/fish
 fish_config 
 ```
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ## Прибираємо або змінюємо напис
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
 
 ```bash
 set -U fish_greeting ""

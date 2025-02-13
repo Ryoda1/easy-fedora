@@ -4,4 +4,4 @@ description: Timeshift + Rsync + BTRFS (Для досвідчених корис
 
 # Резервна копія
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>

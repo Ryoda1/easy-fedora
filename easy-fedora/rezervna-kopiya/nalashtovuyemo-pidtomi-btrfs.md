@@ -28,7 +28,7 @@ sudo mkdir /mnt/btrfs
 df -h
 ```
 
-<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 Тепер монтуємо файлову систему (з урахуванням ваших результатів):
 
@@ -57,7 +57,7 @@ sudo vim /etc/fstab
 Змінюємо **root** на **@**, а **/home** на **@home** в **fstab**.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Зберігаємо зміни за допомогою **Ctrl+O**, виходимо з редактора за допомогою **Ctrl+X**.

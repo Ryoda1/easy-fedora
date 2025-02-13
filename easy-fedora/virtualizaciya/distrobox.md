@@ -6,7 +6,7 @@ description: Контейнер
 
 Distrobox — це інструмент, який дозволяє використовувати різні дистрибутиви Linux у контейнерах з повною інтеграцією з основною системою. Дізнайтеся, як встановлювати, налаштовувати та використовувати Distrobox з різними менеджерами контейнерів, хост-системами та дистрибутивами.
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ## Встановлення Distrobox:
 
@@ -16,7 +16,7 @@ sudo dnf install distrobox
 sudo dnf install podman
 ```
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 ## Як користуватися distrobox?
 
