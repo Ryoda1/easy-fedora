@@ -87,7 +87,7 @@
   * [Налаштовуємо підтоми BTRFS](easy-fedora/rezervna-kopiya/nalashtovuyemo-pidtomi-btrfs.md)
   * [Timeshift](easy-fedora/rezervna-kopiya/timeshift.md)
 
-***
+## ㅤ
 
 * [Gnome.org](https://www.gnome.org/)
 * [Fedoraproject.org](https://fedoraproject.org/)
