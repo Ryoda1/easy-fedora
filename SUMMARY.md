@@ -89,4 +89,5 @@
 
 ***
 
-* [Допомога проєкту](dopomoga-proyektu.md)
+* [Gnome.org](https://www.gnome.org/)
+* [Fedoraproject.org](https://fedoraproject.org/)
