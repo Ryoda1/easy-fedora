@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Screenshot From 2025-02-16 21-06-19.png
+cover: .gitbook/assets/rounded-in-photoretrica(3).png
 coverY: 0
 layout:
   cover:
