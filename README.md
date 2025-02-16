@@ -1,11 +1,11 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Zrzut ekranu z 2025-01-23 21-20-22.png
+cover: .gitbook/assets/Screenshot From 2025-02-16 21-06-19.png
 coverY: 0
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
