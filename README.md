@@ -1,6 +1,11 @@
 ---
 icon: hand-wave
+cover: .gitbook/assets/Screenshot From 2025-02-16 21-06-19.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: false
   description:
@@ -14,10 +19,6 @@ layout:
 ---
 
 # Ласкаво просимо!
-
-
-
-<div data-full-width="true"><figure><img src=".gitbook/assets/rounded-in-photoretrica (2).png" alt=""><figcaption></figcaption></figure></div>
 
 ## **Ласкаво просимо!**
 
