@@ -1,13 +1,8 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Screenshot From 2025-02-16 21-06-19.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
@@ -19,6 +14,10 @@ layout:
 ---
 
 # Ласкаво просимо!
+
+<figure><img src=".gitbook/assets/rounded-in-photoretrica (2).png" alt=""><figcaption></figcaption></figure>
+
+## **Ласкаво просимо!**
 
 Easy Fedora — це простий і зрозумілий помічник, який крок за кроком допомагає освоїти та налаштувати дистрибутив Fedora. Підходить для всіх — від новачків до досвідчених користувачів, які хочуть зробити свою роботу з Fedora максимально зручною та ефективною.
 
