@@ -29,7 +29,7 @@ Easy Fedora — це простий і зрозумілий помічник, я
 {% endhint %}
 
 {% hint style="info" %}
-Якщо чогось не вистачає, пишіть мені в Discord — @ryooda.
+Якщо чогось не вистачає, пишіть мені в Discord — @ryoka.uwu
 {% endhint %}
 
 <figure><img src=".gitbook/assets/Screenshot From 2025-02-16 22-01-25.png" alt=""><figcaption></figcaption></figure>
