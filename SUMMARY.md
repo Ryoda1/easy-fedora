@@ -62,6 +62,7 @@
   * [Inkscape](easy-fedora/dodatki/inkscape.md)
   * [Spotify](easy-fedora/dodatki/spotify.md)
   * [Bottles](easy-fedora/dodatki/bottles.md)
+  * [Termius](easy-fedora/dodatki/termius.md)
   * [Upscaler](easy-fedora/dodatki/upscaler.md)
 * [Розширення](easy-fedora/rozshirennya/README.md)
   * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
