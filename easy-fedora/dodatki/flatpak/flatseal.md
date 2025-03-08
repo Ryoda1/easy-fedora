@@ -9,5 +9,3 @@ description: Налаштування Flatpak-додатків
 ```bash
 flatpak install flathub com.github.tchx84.Flatseal
 ```
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
