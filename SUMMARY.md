@@ -88,7 +88,6 @@
 * [Резервна копія](easy-fedora/rezervna-kopiya/README.md)
   * [Налаштовуємо підтоми BTRFS](easy-fedora/rezervna-kopiya/nalashtovuyemo-pidtomi-btrfs.md)
   * [Timeshift](easy-fedora/rezervna-kopiya/timeshift.md)
-* [Допомога проєкту](easy-fedora/dopomoga-proyektu.md)
 
 ## ㅤ
 
