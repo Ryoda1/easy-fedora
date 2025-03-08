@@ -74,6 +74,7 @@
 * [Зовнішній вигляд](easy-fedora/zovnishnii-viglyad/README.md)
   * [Іконки MoreWinta](easy-fedora/zovnishnii-viglyad/ikonki-morewinta.md)
   * [Кольорові папки](easy-fedora/zovnishnii-viglyad/kolorovi-papki.md)
+  * [Фонове зображення](easy-fedora/zovnishnii-viglyad/fonove-zobrazhennya.md)
 * [Геймінг](easy-fedora/geiming/README.md)
   * [Lutris](easy-fedora/geiming/lutris.md)
   * [Steam](easy-fedora/geiming/steam.md)
