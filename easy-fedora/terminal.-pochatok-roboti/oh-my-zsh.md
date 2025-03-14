@@ -8,7 +8,7 @@ description: Оболонка для терміналу
 
 **Oh My Zsh** — це популярний фреймворк для керування конфігурацією оболонки Zsh. Він спрощує роботу з терміналом, додаючи підтримку тем, плагінів та зручних команд.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Встановлення ZSH
 

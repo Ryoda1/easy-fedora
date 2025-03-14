@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: .gitbook/assets/rounded-in-photoretrica(3).png
 coverY: 0
 layout:

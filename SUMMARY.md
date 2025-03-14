@@ -4,7 +4,8 @@
 
 * [Ласкаво просимо!](README.md)
 * [Початок](easy-fedora/pochatok/README.md)
-  * [Розмітка диска](easy-fedora/pochatok/rozmitka-diska.md)
+  * [Розмітка диска](easy-fedora/pochatok/rozmitka-diska/README.md)
+    * [Для Timeshift](easy-fedora/pochatok/rozmitka-diska/dlya-timeshift.md)
   * [Монтування дисків](easy-fedora/pochatok/montuvannya-diskiv.md)
   * [Fstab](easy-fedora/pochatok/fstab.md)
   * [Оновлення системи](easy-fedora/pochatok/onovlennya-sistemi.md)
