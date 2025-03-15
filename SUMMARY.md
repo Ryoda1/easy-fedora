@@ -20,6 +20,7 @@
   * [Fish](easy-fedora/terminal.-pochatok-roboti/fish.md)
   * [Oh-My-Zsh](easy-fedora/terminal.-pochatok-roboti/oh-my-zsh.md)
   * [Fastfetch](easy-fedora/terminal.-pochatok-roboti/fastfetch.md)
+  * [Terra](easy-fedora/terminal.-pochatok-roboti/terra.md)
 * [Репозиторії](easy-fedora/repozitoriyi/README.md)
   * [RPM Fusion](easy-fedora/repozitoriyi/rpm-fusion.md)
   * [Flathub](easy-fedora/repozitoriyi/flathub/README.md)
