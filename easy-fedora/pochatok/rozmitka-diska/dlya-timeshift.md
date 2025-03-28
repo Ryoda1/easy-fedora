@@ -10,7 +10,7 @@
 Щоб усе працювало правильно, необхідно правильно налаштувати під час ручної розмітки в Blivet-GUI підтоми (subvolumes) для btrfs (порядок створення знизу догори!)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 @log /var/log
