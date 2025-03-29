@@ -6,6 +6,8 @@ description: Безкоштовне ПЗ для створення 3D-графі
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+
 ## Flatpak
 
 ```bash

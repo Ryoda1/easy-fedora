@@ -90,7 +90,7 @@ description: Усе починається з першого кроку.
 
 **Fedora Cosmic Spin** — це варіант Fedora з графічним середовищем Cosmic, яке має сучасний інтерфейс, але є ще не завершеним і може містити баги.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ці спіни дозволяють вибрати Fedora з різними робочими середовищами та функціоналом в залежності від ваших потреб.
