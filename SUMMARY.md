@@ -70,6 +70,7 @@
   * [Spotify](easy-fedora/dodatki/spotify.md)
   * [Termius](easy-fedora/dodatki/termius.md)
   * [Upscaler](easy-fedora/dodatki/upscaler.md)
+  * [Blender](easy-fedora/dodatki/blender.md)
 * [Розширення](easy-fedora/rozshirennya/README.md)
   * [Менеджер розширень](easy-fedora/rozshirennya/menedzher-rozshiren.md)
   * [Bluetooth Battery Meter](easy-fedora/rozshirennya/bluetooth-battery-meter.md)
