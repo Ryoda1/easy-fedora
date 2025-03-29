@@ -37,7 +37,6 @@
 * [Шрифти](easy-fedora/shrifti/README.md)
   * [Jetbrains mono](easy-fedora/shrifti/jetbrains-mono.md)
   * [Microsoft Fonts](easy-fedora/shrifti/microsoft-fonts.md)
-  * [Нові шрифти Gnome (Beta)](easy-fedora/shrifti/novi-shrifti-gnome-beta.md)
 * [Додатки](easy-fedora/dodatki/README.md)
   * [Flatpak](easy-fedora/dodatki/flatpak/README.md)
     * [Flatseal](easy-fedora/dodatki/flatpak/flatseal.md)
