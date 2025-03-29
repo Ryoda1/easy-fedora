@@ -4,7 +4,7 @@ description: Найкращий відеоредактор. (Для досвід
 
 # DaVinci Resolve
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Dav
 
@@ -17,7 +17,7 @@ sudo dnf copr enable -y herzen/davinci-helper
 sudo dnf install -y davinci-helper
 ```
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 ## Ручний метод встановлення DaVinci
 
@@ -27,7 +27,7 @@ sudo dnf install -y davinci-helper
 
 [Davinci Fix](davinci-resolve.md#fix-fedora-39-dlya-davinci-resolve-18.6-1) для Fedora 41
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.blackmagicdesign.com/products/davinciresolve" %}
 
