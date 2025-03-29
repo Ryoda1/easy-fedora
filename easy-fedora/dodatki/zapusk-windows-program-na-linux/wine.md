@@ -12,7 +12,7 @@ Wine — це набір інструментів, що допомагає "ві
 
 Оригінальний Wine орієнтований на запуск будь-яких сумісних із Windows програм, однак очікувати 100% працездатності кожного екземпляра не варто.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ## Встановлення Wine
 
