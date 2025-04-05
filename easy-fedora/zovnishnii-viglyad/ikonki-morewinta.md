@@ -8,6 +8,5 @@ description: Розширена тема іконок в стилі Adwaita
 
 ## Встановлюємо набір іконок.
 
-```bash
-sudo dnf copr enable dusansimic/themes && sudo dnf install morewaita-icon-theme
-```
+<pre class="language-bash"><code class="lang-bash"><strong>sudo dnf copr enable trixieua/morewaita-icon-theme &#x26;&#x26; sudo dnf install morewaita-icon-theme
+</strong></code></pre>
