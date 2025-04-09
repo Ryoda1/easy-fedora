@@ -1,5 +1,5 @@
 ---
-description: UNIX Permissions
+description: UNIX File Permissions
 ---
 
 # Права доступу до файлів у Linux
