@@ -47,7 +47,7 @@ description: UNIX File Permissions
 | `6`   | `rw-` | Читання + запис     |
 | `7`   | `rwx` | Повний доступ       |
 
-Приклад
+#### Приклад
 
 ```bash
 chmod 754 myfile.txt
