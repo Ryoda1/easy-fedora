@@ -13,6 +13,7 @@
   * [Встановлення кодеків](easy-fedora/pochatok/vstanovlennya-kodekiv.md)
   * [Додаткові налаштування GNOME](easy-fedora/pochatok/dodatkovi-nalashtuvannya-gnome.md)
 * [Термінал](easy-fedora/terminal.-pochatok-roboti/README.md)
+  * [Права доступу до файлів у Linux](easy-fedora/terminal.-pochatok-roboti/prava-dostupu-do-failiv-u-linux.md)
   * [Увімкнення "шорткату" для Терміналу.](easy-fedora/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
   * [Встановлюємо консольний софт](easy-fedora/terminal.-pochatok-roboti/vstanovlyuyemo-konsolnii-soft.md)
   * [Консольні команди для GNU/Linux](easy-fedora/terminal.-pochatok-roboti/konsolni-komandi-dlya-gnu-linux.md)
