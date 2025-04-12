@@ -49,3 +49,12 @@ git clone --branch ім’я-гілки --single-branch https://github.com/user/
 git clone git@github.com:user/repo.git
 ```
 {% endhint %}
+
+## Додавання файлів і створення коміту у Git
+
+```bash
+echo "# Привіт, Git!" > README.md
+git add README.md
+git commit -m "Початковий коміт"
+```
+
