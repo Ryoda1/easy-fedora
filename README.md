@@ -27,7 +27,7 @@ Easy Fedora — це простий і зрозумілий помічник, я
 Пам'ятайте! Цей гайд має лише інформативний характер і не є офіційною інструкцією або технічною підтримкою. Усі поради та рекомендації застосовуйте на власний ризик.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot From 2025-02-16 22-01-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Якщо чогось не вистачає, пишіть мені в Discord — @ryoka.uwu
