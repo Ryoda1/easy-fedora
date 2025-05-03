@@ -1,8 +1,11 @@
 # Table of contents
 
+## Загальна інформація
+
+* [Про проєкт](README.md)
+
 ## easy fedora 2.0
 
-* [Ласкаво просимо!](README.md)
 * [Початок](easy-fedora-2.0/pochatok/README.md)
   * [Розмітка диска](easy-fedora-2.0/pochatok/rozmitka-diska/README.md)
     * [Для Timeshift](easy-fedora-2.0/pochatok/rozmitka-diska/dlya-timeshift.md)
@@ -12,6 +15,7 @@
   * [Оновлення до Beta.](easy-fedora-2.0/pochatok/onovlennya-do-beta..md)
   * [Встановлення кодеків](easy-fedora-2.0/pochatok/vstanovlennya-kodekiv.md)
   * [Додаткові налаштування GNOME](easy-fedora-2.0/pochatok/dodatkovi-nalashtuvannya-gnome.md)
+  * [Дробне масштабування Gnome](easy-fedora-2.0/pochatok/drobne-masshtabuvannya-gnome.md)
 * [Термінал](easy-fedora-2.0/terminal.-pochatok-roboti/README.md)
   * [Права доступу до файлів у Linux](easy-fedora-2.0/terminal.-pochatok-roboti/prava-dostupu-do-failiv-u-linux.md)
   * [Увімкнення "шорткату" для Терміналу.](easy-fedora-2.0/terminal.-pochatok-roboti/uvimknennya-shortkatu-dlya-terminalu..md)
