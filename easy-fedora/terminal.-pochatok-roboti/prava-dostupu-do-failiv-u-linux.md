@@ -4,7 +4,7 @@ description: UNIX File Permissions
 
 # Права доступу до файлів у Linux
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure></div>
 
 У Linux кожен файл або каталог має права доступу для:
 
