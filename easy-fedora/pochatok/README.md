@@ -24,11 +24,6 @@ Fedora Workstation - це основна офіційна версія Fedora, �
 
 ## Які редакції (спіни) ще є у Fedora Linux?
 
-**Fedora KDE Plasma Desktop**\
-Повноцінний, сучасний робочий стіл, побудований на середовищі KDE Plasma.
-
-<figure><img src="../../.gitbook/assets/obraz (2) (1).png" alt=""><figcaption></figcaption></figure>
-
 **Fedora Xfce**\
 Легке та швидке робоче середовище Xfce, ідеальне для старіших або менш потужних комп'ютерів.
 
