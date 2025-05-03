@@ -16,7 +16,7 @@ Fedora Workstation - це основна офіційна версія Fedora, �
 
 ## Огляд Fedora Linux
 
-{% embed url="https://www.youtube.com/watch?v=6eVo7KtpNPM" %}
+{% embed url="https://www.youtube.com/watch?v=RaUSR8GFdWU" %}
 
 ## Завантажити найсвіжішу версію Fedora Linux.
 
